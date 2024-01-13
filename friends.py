@@ -12,7 +12,7 @@ first_digits = t + r + u + e
 
 l = lower_names.count("l")
 o = lower_names.count("o")
-v = lower_names.count("v")
+v = lower_names.count("v")  
 e = lower_names.count("e")
 second_digits = l + o + v + e
 
